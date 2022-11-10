@@ -1,5 +1,7 @@
 Hey guys!, 
-
+           
+Description
+                  I'm Ethical Hacker Cyber Security Expert & Security Researcher,YouTuber
 
 #                                              Disclaimer:
 
@@ -27,7 +29,10 @@ Hey guys!,
 
 # Kali-NetHunter-Rootless-Edition-By-Ts-Hacking
 
+# // COMMANDS //
 
+1. Download & install Open Termux App and type Commands
+2. termux 
 
 # Screenshot
 ![010-NH-Rootless-Installation_Start_s](https://user-images.githubusercontent.com/68728063/201046047-9f01eb2a-f61e-498e-a2f2-8305be121f8b.png)
