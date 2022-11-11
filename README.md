@@ -5,7 +5,7 @@ Description
 
 #                                              Disclaimer:
 
-     This YouTube Channel Strictly On White Hat Hacking Practices And I Do Not Promote Any illegal Activity
+     This Ts-Hacking YouTube Channel Strictly On White Hat Hacking Practices And I Do Not Promote Any illegal Activity
 
        
 
