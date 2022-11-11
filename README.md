@@ -3,8 +3,8 @@ Hey guys!,
 Description
                   I'm Ethical Hacker Cyber Security Expert & Security Researcher,YouTuber
                   
-                  i hope you Like This My Video.
-             don't forget to Like, Comment, Share and Subscribe to My YouTube Channel Link:- ( https://www.youtube.com/c/TsHacking/videos ) 
+#                  i hope you Like This My Video.
+#             don't forget to Like, Comment, Share and Subscribe to My YouTube Channel Link:- ( https://www.youtube.com/c/TsHacking/videos ) 
 
 #                                              Disclaimer:
 
