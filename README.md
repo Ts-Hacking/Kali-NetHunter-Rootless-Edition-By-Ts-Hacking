@@ -32,7 +32,7 @@ Description
 # // COMMANDS //
 
 1. Download & install Open Termux App and type Commands
-2. - ~ $ termux-setup-storag
+2.- ~ $ termux-setup-storag
 
 #Welcome to Termux!
 
@@ -55,15 +55,15 @@ For fixing any repository issues,
 try 'termux-change-repo' command.
 
 Report issues at https://termux.dev/issues
-8.  ~ $ pkg update
-9.  ~ $ pkg upgrade
-10. ~ $ pkg install wget git curl
-11. ~ $ git clone https://github.com/Ts-Hacking/Kali-NetHunter-Rootless-Edition-By-Ts-Hacking.git
-12. ~ $ cd Kali-NetHunter-Rootless-Edition-By-Ts-Hacking
-13. ~ $ ls -la
-14. ~ $ chmod +x install-nethunter-termux
-15. ~ $ ./install-nethunter-termux
-16. ~ $ nethunter kex &
+8. - ~ $ pkg update
+9. - ~ $ pkg upgrade
+10.- ~ $ pkg install wget git curl
+11.- ~ $ git clone https://github.com/Ts-Hacking/Kali-NetHunter-Rootless-Edition-By-Ts-Hacking.git
+12.- ~ $ cd Kali-NetHunter-Rootless-Edition-By-Ts-Hacking
+13.- ~ $ ls -la
+14.- ~ $ chmod +x install-nethunter-termux
+15.- ~ $ ./install-nethunter-termux
+16.- ~ $ nethunter kex &
 
 # Screenshot
 
