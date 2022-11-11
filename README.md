@@ -14,18 +14,18 @@ Hey guys!,
                      Ts-Hacking  
 
 Follow Me 
-instagram Link :- [https://www.instagram.com/saheboffici...](https://www.instagram.com/sahebofficial538/)
+instagram Link :- (https://www.instagram.com/sahebofficial538/)
 
 Follow Me
-FaceBook Page :- https://www.facebook.com/TsHacking538/
+FaceBook Page :- (https://www.facebook.com/TsHacking538/)
 
 
 Follow Me
-GitHub Repository :- https://github.com/Ts-Hacking
+GitHub Repository :- (https://github.com/Ts-Hacking)
 
 
 Ts-Hacking Official facebook Page 
-Link :- https://www.facebook.com/TsHacking583
+Link :- (https://www.facebook.com/TsHacking583)
 
 #                                              Disclaimer:!
 
