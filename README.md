@@ -5,7 +5,7 @@ Hey guys!,
                   
 #                  i hope you Like This My Video.
 #             don't forget to Like, Comment, Share and Subscribe to My Ts-Hacking YouTube Channel Link:-  
-                     ( https://www.youtube.com/c/TsHacking/videos ) 
+#                     ( https://www.youtube.com/c/TsHacking/videos ) 
 
 #                                              Disclaimer:!
 
