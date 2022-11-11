@@ -32,7 +32,7 @@ Description
 # // COMMANDS //
 
 1. Download & install Open Termux App and type Commands
-2. ~ $ termux-setup-storag
+2. - ~ $ termux-setup-storag
 
 #Welcome to Termux!
 
