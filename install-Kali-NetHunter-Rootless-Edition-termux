@@ -351,20 +351,20 @@ function print_banner() {
     printf "${blue}##  88     '88.   d8'        '8b  88        88  ##\n"
     printf "${blue}##  88       Y8b d8'          '8b 888888888 88  ##\n"
     printf "${blue}##                                              ##\n"
-    printf "${blue}#### ############# Kali NetHunter Rootless Edition By Ts-Hacking ####################${reset}\n\n"
+    printf "${blue}#### ############# Kali NetHunter Rootless Edition By Ts-Hacking Version 2022.3 ####################${reset}\n\n"
 
-    echo -e "${YELLOW}    I'm Ethical Hacker Cyber Security Expert & Security Researcher,YouTuber  ${BLUE}2.6.1.2${RESTORE}\n"                                                                     
-    echo -e "${YELLOW}  ''''''''''''''''''''''''''''''''''''For Contact''''''''''''''''''''''''''''''''''''''''''' ${BLUE}2.6.1.2${RESTORE}\n"
+    echo -e "${YELLOW}    I'm Ethical Hacker Cyber Security Expert & Security Researcher,YouTuber  ${BLUE}2022.3 {RESTORE}\n"                                                                     
+    echo -e "${YELLOW}  ''''''''''''''''''''''''''''''''''''For Contact''''''''''''''''''''''''''''''''''''''''''' ${BLUE}2022.3${RESTORE}\n"
 
-    echo -e "${YELLOW}    ▶️ For Business Enquiries Mail Me At: sahebwebsolindia538@gmail.com       ${BLUE}2.6.1.2${RESTORE}\n"
-    echo -e "${YELLOW}                             ▀▄▀▄▀▄ [ Follow Me on Ts-Hacking ] ▄▀▄▀▄▀ ${BLUE}2.6.1.2${RESTORE}\n"  
+    echo -e "${YELLOW}    ▶️ For Business Enquiries Mail Me At: sahebwebsolindia538@gmail.com       ${BLUE}2022.3${RESTORE}\n"
+    echo -e "${YELLOW}                             ▀▄▀▄▀▄ [ Follow Me on Ts-Hacking ] ▄▀▄▀▄▀ ${BLUE}2022.3${RESTORE}\n"  
     echo -e "${YELLOW} ▶️ i hope you Like This My Video. don't forget to Like, Comment, Share and Subscribe to My YouTube Channel https://www.youtube.com/c/TsHacking  ${BLUE}2.6.1.2${RESTORE}\n"
-    echo -e "${YELLOW}    ▶️ Follow Me instagram Link:- https://www.instagram.com/sahebofficial538/  ${BLUE}2.6.1.2${RESTORE}\n"
-    echo -e "${YELLOW} ▶️ Follow Me FaceBook Page:- https://www.facebook.com/TsHacking538/ ${BLUE}2.6.1.2${RESTORE}\n"
-    echo -e "${YELLOW} ▶️ Follow Me GitHub Repository:- https://github.com/Ts-Hacking ${BLUE}2.6.1.2${RESTORE}\n"
+    echo -e "${YELLOW}    ▶️ Follow Me instagram Link:- https://www.instagram.com/sahebofficial538/  ${BLUE}2022.3${RESTORE}\n"
+    echo -e "${YELLOW} ▶️ Follow Me FaceBook Page:- https://www.facebook.com/TsHacking538/ ${BLUE}2022.3${RESTORE}\n"
+    echo -e "${YELLOW} ▶️ Follow Me GitHub Repository:- https://github.com/Ts-Hacking ${BLUE}2022.3${RESTORE}\n"
 
-    echo -e "${YELLOW}      Kali-Apktool-Fix Version ${BLUE}Version: 2.6.1.2${RESTORE}\n"
-    echo -e "${L_GREY}This script was developed to be used with the kali-linux distribution any use outside of this distribution may not work${RESTORE}\n"
+    echo -e "${YELLOW}  ▶️ Kali NetHunter Rootless Edition ${BLUE}Version: 2022.3 ${RESTORE}\n"
+    echo -e "${L_GREY}▶️ This script was developed to be used with the kali-linux distribution any use outside of this distribution may not work${RESTORE}\n"
 }
 
 
